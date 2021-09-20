@@ -20,6 +20,15 @@ a:hover {
 
 p {
     text-align: justify;
+    font-size: 1.3em;
+}
+
+blockquote {
+    font-size: 1.5em;
+}
+
+em {
+    font-size: 1.3em;
 }
 
 #page-loading-blocs-notifaction {
@@ -680,10 +689,6 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
-}
-
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -779,7 +784,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
+    font-weight: bold;
 }
 
 .btn-atomic-tangerine {
