@@ -27,14 +27,6 @@ p {
     font-size: 1.3em;
 }
 
-blockquote {
-    font-size: 1.5em;
-}
-
-em {
-    font-size: 1.3em;
-}
-
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
