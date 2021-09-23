@@ -18,6 +18,10 @@ a:hover {
     cursor: pointer;
 }
 
+a:focus {
+    border: dashed black;
+}
+
 p {
     text-align: center;
     font-size: 1.3em;
