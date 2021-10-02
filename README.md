@@ -28,47 +28,47 @@ Il faudra bien garder en tête que le but est que notre site soit mieux classé 
 
 1. Page index.html
 
-    * Performance 100
+    * Performance 100 (+18)
 
-    * Accessibilité 100
+    * Accessibilité 100 (+19)
 
-    * Bonnes pratiques 93
+    * Bonnes pratiques 93 (0)
 
-    * SEO 100
+    * SEO 100 (+10)
 
 ---------------------
 
 2. Page nous-contacter.html
 
-    * Performance 100
+    * Performance 100 (0)
 
-    * Accessibilité 100
+    * Accessibilité 100 (+24)
 
-    * Bonnes pratiques 93
+    * Bonnes pratiques 93 (0)
 
-    * SEO 100
+    * SEO 100 (+10)
 
 ### Mobile
 
 1. Page index.html
 
-    * Performance 97
+    * Performance 97 (+29)
 
-    * Accessibilité 100
+    * Accessibilité 100 (+16)
 
-    * Bonnes pratiques 93
+    * Bonnes pratiques 93 (0)
 
-    * SEO 100
+    * SEO 100 (+22)
 
 ---------------------
 
 2. Page nous-contacter.html
 
-    * Performance 98
+    * Performance 98 (-1)
 
-    * Accessibilité 100
+    * Accessibilité 100 (+24)
 
-    * Bonnes pratiques 93
+    * Bonnes pratiques 93 (0)
 
-    * SEO 100
+    * SEO 100 (+19)
 
