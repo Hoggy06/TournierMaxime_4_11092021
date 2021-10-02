@@ -22,3 +22,53 @@ Il faudra bien garder en tête que le but est que notre site soit mieux classé 
 
 * Un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
 
+## Analyse Lightouse après
+
+### Ordinateur
+
+1. Page index.html
+
+    * Performance 100
+
+    * Accessibilité 100
+
+    * Bonnes pratiques 93
+
+    * SEO 100
+
+---------------------
+
+2. Page nous-contacter.html
+
+    * Performance 100
+
+    * Accessibilité 100
+
+    * Bonnes pratiques 93
+
+    * SEO 100
+
+### Mobile
+
+1. Page index.html
+
+    * Performance 97
+
+    * Accessibilité 100
+
+    * Bonnes pratiques 93
+
+    * SEO 100
+
+---------------------
+
+2. Page nous-contacter.html
+
+    * Performance 98
+
+    * Accessibilité 100
+
+    * Bonnes pratiques 93
+
+    * SEO 100
+
