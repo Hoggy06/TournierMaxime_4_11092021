@@ -22,7 +22,7 @@ Il faudra bien garder en tête que le but est que notre site soit mieux classé 
 
 * Un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
 
-## Analyse Lightouse après
+## Analyse Lightouse après 
 
 ### Ordinateur
 
